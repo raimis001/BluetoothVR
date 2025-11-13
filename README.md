@@ -1,6 +1,8 @@
 # 📘 BluetoothVR  
 Bluetooth connection between **Arduino** and **Unity** on **Meta Quest 3** VR headset.
 
+[![Demo video]([https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/0lTNUMTusA0))
+
 Supports usage:  
 - **with or without Passthrough**  
 - **with or without Hand Tracking**
